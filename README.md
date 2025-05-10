@@ -1,3 +1,2 @@
 # My-Repository
-Fresh begin
-HTML and CSS Resume
+Fresh begin with HTML and CSS Resume
